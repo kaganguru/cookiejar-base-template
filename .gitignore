@@ -2,7 +2,6 @@
 .vscode/
 /android/
 .DS_Store
-/.vscode/
 
 
 # Godot 4+ specific ignores
