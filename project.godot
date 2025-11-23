@@ -14,7 +14,8 @@ config/name="My Cookie Jar Game"
 run/main_scene="res://MY_PROJECT/main.tscn"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 boot_splash/bg_color=Color(0, 0, 0, 1)
-config/icon="res://cookiejar.svg"
+boot_splash/image="uid://cex3gbrog2agm"
+config/icon="uid://cex3gbrog2agm"
 
 [autoload]
 

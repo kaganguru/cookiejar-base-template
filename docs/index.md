@@ -7,14 +7,16 @@ We have our own set of project settings (project.godot) to run the process smoot
 Therefore, 
 
 - you can’t use autoloads (singletons)
+
 - you can’t use custom input configurations
-    
-    however, since it will be a mobile games, you will not need it that much. just use the touch events.
-    
+	
+	however, since it will be a mobile games, you will not need it that much. just use the touch events.
+	
 - you cannot change the window size/window mode- it’s 3:5
+
 - you can’t change the quality settings
-    
-    they’re carefully configured to suit well for all devices including low-end ones.
-    
+	
+	they’re carefully configured to suit well for all devices including low-end ones.
+	
 
 **Basically you don’t want to touch  project settings.**
